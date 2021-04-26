@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Petya",
+      "age": "1",
+      "email": "1",
+      "phone": "1",
+      "hobby": "1",
+      "id": 1
+    },
+    {
+      "name": "Vasya",
+      "age": "3",
+      "email": "3",
+      "phone": "3",
+      "hobby": "3",
+      "id": 2
+    },
+    {
+      "name": "Mosya Pidor",
+      "age": "1",
+      "email": "1",
+      "phone": "1",
+      "hobby": "1",
+      "id": 3
+    },
+    {
+      "name": "Katya",
+      "age": "1",
+      "email": "1",
+      "phone": "1",
+      "hobby": "1",
+      "id": 4
+    }
+  ]
+}
