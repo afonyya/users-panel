@@ -3,11 +3,15 @@
 ```
 yarn install
 ```
-### Compiles and hot-reloads for development
+### Start JSON Server
 ```
-webpack --mode development --watch
+json-server db.json
 ```
-### Compiles and hot-reloads for production
+### Compile for development
 ```
-webpack --mode production --watch
+webpack --mode development
+```
+### Compile for production
+```
+webpack --mode production
 ```
