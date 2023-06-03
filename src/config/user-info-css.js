@@ -12,4 +12,4 @@ export const cssUserInfo = `
   .in-flex100 {
     flex: 0 0 100%;
   }
-`
+`;

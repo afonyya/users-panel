@@ -73,4 +73,4 @@ export const cssUserProfile = `
   #submit:disabled {
     cursor: not-allowed;
   }
-`
+`;

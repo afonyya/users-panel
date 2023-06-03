@@ -32,4 +32,4 @@ export const templateUserProfile = `
   <button id="submit" disabled>Submit</button>
   <button id="edit" disabled>&#9881;&#65039;</button>
   <button id="delete" disabled>&#10060;</button>
-`
+`;

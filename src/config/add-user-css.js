@@ -38,4 +38,4 @@ export const cssAddUser = `
   #submit:disabled {
     cursor: not-allowed;
   }
-`
+`;

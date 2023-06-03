@@ -30,4 +30,4 @@ export const templateAddUser = `
   </label>
 </div>
 <button id="submit">Add User</button>
-`
+`;
